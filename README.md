@@ -85,7 +85,7 @@ cd smartbreaker-weather-api
 ### 2. Configurar o arquivo `application.properties`
 
 ```properties
-openweather.api.key=SUA_CHAVE_AQUI
+openweather.api.key=299bafb9d3c1455eb51fa1fe4c8968fc
 openweather.api.weather.url=https://api.openweathermap.org/data/2.5/weather
 server.port=8080
 ```
@@ -113,4 +113,6 @@ server.port=8080
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Samuel, para fins acadêmicos e demonstrativos do projeto **SmartBreaker**.
+Samuel Ramos de Almeida – RM99134
+Gabriel Marquez Trevisan – RM99227
+Enricco Rossi de Souza Carvalho Miranda – RM551717
